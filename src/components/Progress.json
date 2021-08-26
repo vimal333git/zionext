@@ -1,0 +1,38 @@
+[
+    {
+        "id":1,
+        "name":"Kiran",
+        "class":"Silver",
+        "report":  {
+            "tamil":93,
+            "english":92,
+            "mathematics":82,
+            "science":100,
+            "economics":88
+        }
+    },
+    {
+        "id":2,
+        "name":"Lalith",
+        "class":"Silver",
+        "report": {
+            "tamil":88,
+            "english":82,
+            "mathematics":82,
+            "science":76,
+            "economics":88
+        }
+    },
+    {
+        "id":3,
+        "name":"Satheesh",
+        "class":"Platinum",
+        "report":   {
+            "tamil":76,
+            "english":77,
+            "mathematics":68,
+            "science":83,
+            "economics":77
+        }
+    }
+]
